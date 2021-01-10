@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img src='https://i.imgur.com/UB3Xymf.jpg'>
+welcome to my github page :) 
+
 
 <!--
 **marissaromero/marissaromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
