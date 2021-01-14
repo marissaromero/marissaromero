@@ -1,4 +1,4 @@
-<img src='https://i.imgur.com/tGU7UU7.jpg'><br><br>
+
 Hello and welcome to my github page :)!<br>
 I'm a software engineer based in Seattle, WA. <br>
 
