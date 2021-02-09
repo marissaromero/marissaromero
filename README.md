@@ -8,4 +8,5 @@ Check it out here: <a href="https://github.com/marissaromero/our_house">OurHouse
 Also I have a couple of on-going group projects from hackathons: 
 
 Eloquize - an app to gamify behavioral interview practice
+
 Rooting For You - an app to help track watering your house plants 
